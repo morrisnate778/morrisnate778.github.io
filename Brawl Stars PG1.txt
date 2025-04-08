@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brawlers</title>
+</head>
+<body style="background-color:DarkOrange;">
+<body>
+
+<h1>Brawlers</h1>
+<p>Brawl Stars offers a wide variety of characters to choose from, these characters are known as '<strong>brawlers</strong>'.
+<p>There are five types of rarieties that Brawlers can be categorised into. These rarieties are; <b>Rare</b>, <b>Super Rare</b>, <b>Epic</b>, <b>Mythic</b>, and <b>Legendary</b>.
+<br>
+<h2>Rare</h2>
+
+<ul>
+<li>Colt</li>
+<li>El Primo</li>
+<li>Poco</li>
+<li>Nita</li>
+<li>Brock</li>
+<li>Bull</li>
+<li>Barley</li>
+<li>Rosa</li>
+</ul>
+<br>
+<h3>Super Rare</h3>
+
+<ul>
+<li>8-Bit</li>
+<li>Rico</li>
+<li>Gus</li>
+<li>Darryl</li>
+<li>Dynamike</li>
+<li>Penny</li>
+<li>Jessie</li>
+<li>Tick</li>
+</ul>
+<br>
+<h4>Epic</h4>
+
+<ul>
+<li>Edgar</li>
+<li>Colette</li>
+<li>Meeple</li>
+<li>Piper</li>
+<li>Larry and Lawrie</li>
+<li>Stu</li>
+<li>Mandy</li>
+<li>Bibi</li>
+</ul>
+<br>
+<h5>Mythic</h5>

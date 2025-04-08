@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brawl Stars</title>
+</head>
+<body style="background-color:DarkOrange;">
+<body>
+<br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fbrawl-stars-emblem-vector-34887558&psig=AOvVaw3qikHvCD1TQM7u56PmFO0c&ust=1740109651042000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj4yN-r0YsDFQAAAAAdAAAAABAE" alt="Brawl stars">
+
+<h1>Brawl Stars</h1>
+<p>Brawl Stars is a mobile multiplayer third-person shooter that was developed and published by SuperCell.</P>
+<p>SuperCell is well known for the many games they created alongside brawl stars, you may recognise some of the games<br>SuperCell has created, like; <b>Clash Of Clans</b>, <b>Clash Royale</b>, <b>Hay Day</b>, <b>Boom Beach</b>, <b>Squad Busters</b>, and the topic of this website, 
+<br>
+<a href="file:///C:/Users/nate.morris1/Downloads/Brawl%20Stars%20PG1.htm">Page 1 - Characters</a>
+</body>
+</html>
